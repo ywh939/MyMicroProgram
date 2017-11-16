@@ -1,0 +1,139 @@
+[2017-09-22 22:23:51][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:604799394 msecs!
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSPlayerMgr.cpp] [WSPlayerMgr::QueryForeverDeletedPlayer] [482] start to query deleted player time(1506090231).
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SendCommands] [445] [db] table(t_player_info) type(400009) callback(27, 63930040) request time(1506090232).
+[2017-09-22 22:23:52][DEBUG] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSActivityMgr.cpp] [WSActivityMgr::OpenActivity] [334] id = 1504 name = PVPwudaohui pretime = 1506009600 starttime = 1506009600 duetime = 1506096000
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SendCommands] [445] [db] table(t_player_info) type(400009) callback(28, 63930368) request time(1506090232).
+[2017-09-22 22:23:52][DEBUG] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSActivityMgr.cpp] [WSActivityMgr::OpenActivity] [372] id = 1504 name = PVPwudaohui pretime = 1506009600 starttime = 1506009600 duetime = 1506096000
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SendCommands] [445] [db] table(t_auction_new) type(400009) callback(29, 63929208) request time(1506090232).
+[2017-09-22 22:23:52][DEBUG] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSActivityMgr.cpp] [WSActivityMgr::OnActivityStart] [652] activity(PVPwudaohui) started.
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56441408) magiccode(566) sequence(101) id(400010) size(25).
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\include\CLSysNotify.h] [SysNotifyMgr::MakeNotify] [127]  MakeNotify : srcBuf = 系统提示 destBuf = 系统提示 format : 系统提示  succeed
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56441208) magiccode(570) sequence(102) id(400010) size(15).
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56441408) magiccode(566) sequence(101) id(400010) size(25).
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\include\CLSysNotify.h] [SysNotifyMgr::MakeNotify] [127]  MakeNotify : srcBuf = 系统提示 destBuf = 系统提示 format : 系统提示  succeed
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56505064) magiccode(577) sequence(103) id(400010) size(25).
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(27) rettype(1).
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\GuildBattleMgr.cpp] [GuildBattleMgr::OnEnrollEnd] [681]  GuildBattleMgr::OnEnrollEnd 
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56480592) magiccode(583) sequence(104) id(400010) size(15).
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56441208) magiccode(570) sequence(102) id(400010) size(15).
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\include\CLSysNotify.h] [SysNotifyMgr::MakeNotify] [127]  MakeNotify : srcBuf = 公会领地争夺战即将开始，请尽快入场！{0} destBuf = 公会领地争夺战即将开始，请尽快入场！{X 8 0} format : 公会领地争夺战即将开始，请尽快入场！{X 8 0}  succeed
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56505264) magiccode(584) sequence(105) id(400010) size(592).
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(27) rettype(0).
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56441408) magiccode(585) sequence(106) id(400010) size(15).
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SetResult] [387] [db] set request(27) result(0).
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56505064) magiccode(577) sequence(103) id(400010) size(25).
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\GuildBattleMgr.cpp] [GuildBattleMgr::OnBattleBegin] [694]  GuildBattleMgr::OnBattleBegin 
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(28) rettype(1).
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\include\CLSysNotify.h] [SysNotifyMgr::MakeNotify] [127]  MakeNotify : srcBuf = 公会领地争夺战已经开始，请尽快前往参加！{0} destBuf = 公会领地争夺战已经开始，请尽快前往参加！{X 8 0} format : 公会领地争夺战已经开始，请尽快前往参加！{X 8 0}  succeed
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56480592) magiccode(583) sequence(104) id(400010) size(15).
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\include\CLSysNotify.h] [SysNotifyMgr::MakeNotify] [127]  MakeNotify : srcBuf = 公会领地争夺战还有10分钟结束，请尽快前往参加！{0} destBuf = 公会领地争夺战还有10分钟结束，请尽快前往参加！{X 8 0} format : 公会领地争夺战还有10分钟结束，请尽快前往参加！{X 8 0}  succeed
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(28) rettype(0).
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SetResult] [387] [db] set request(28) result(0).
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\GuildBattleMgr.cpp] [GuildBattleMgr::OnBattleEnd] [704]  GuildBattleMgr::OnBattleEnd 
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56505264) magiccode(584) sequence(105) id(400010) size(592).
+[2017-09-22 22:23:52][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1442 msecs!
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSPlayerMgr.cpp] [QueryForeverDeletedPlayerCallback::OnFinished] [460] query forever deleted player finish, type(0)time(1506090231).
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(29) rettype(1).
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSPlayerMgr.cpp] [QueryForeverDeletedPlayerCallback::OnFinished] [460] query forever deleted player finish, type(1)time(1506090231).
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56441408) magiccode(585) sequence(106) id(400010) size(15).
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\include\CLSysNotify.h] [SysNotifyMgr::MakeNotify] [127]  MakeNotify : srcBuf = 系统提示 destBuf = 系统提示 format : 系统提示  succeed
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(29) rettype(0).
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\include\CLSysNotify.h] [SysNotifyMgr::MakeNotify] [127]  MakeNotify : srcBuf = 系统提示 destBuf = 系统提示 format : 系统提示  succeed
+[2017-09-22 22:23:52][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SetResult] [387] [db] set request(29) result(0).
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\GuildBattleMgr.cpp] [GuildBattleMgr::OnEnrollBegin] [657]  GuildBattleMgr::OnEnrollBegin 
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\include\CLSysNotify.h] [SysNotifyMgr::MakeNotify] [127]  MakeNotify : srcBuf = 公会战报名已经开始，请会长前往报名！{0} destBuf = 公会战报名已经开始，请会长前往报名！{X 8 0} format : 公会战报名已经开始，请会长前往报名！{X 8 0}  succeed
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\MailBox.cpp] [MailBox::PutMail] [983] MailBox::PutMail : send protocol WorldNotifyNewMail  title=赛季奖励
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\include\CLSysNotify.h] [SysNotifyMgr::MakeNotify] [127]  MakeNotify : srcBuf = 系统提示 destBuf = 系统提示 format : 系统提示  succeed
+[2017-09-22 22:23:52][INFO] [E:\DNF_Project_Server\trunk\server\include\CLSysNotify.h] [SysNotifyMgr::MakeNotify] [127]  MakeNotify : srcBuf = 系统提示 destBuf = 系统提示 format : 系统提示  succeed
+[2017-09-22 22:23:57][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1004 msecs!
+[2017-09-22 22:24:00][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSPlayerMgr.cpp] [WSPlayerMgr::OnTick] [269] CURRENT PLAYER NUM: 1!
+[2017-09-22 22:24:02][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1006 msecs!
+[2017-09-22 22:24:07][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1016 msecs!
+[2017-09-22 22:24:12][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1003 msecs!
+[2017-09-22 22:24:17][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1007 msecs!
+[2017-09-22 22:24:21][INFO] [E:\DNF_Project_Server\trunk\server\include\CLSysNotify.h] [SysNotifyMgr::MakeNotify] [127]  MakeNotify : srcBuf = 系统提示 destBuf = 系统提示 format : 系统提示  succeed
+[2017-09-22 22:24:22][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1001 msecs!
+[2017-09-22 22:24:22][INFO] [E:\DNF_Project_Server\trunk\server\include\CLSysNotify.h] [SysNotifyMgr::MakeNotify] [127]  MakeNotify : srcBuf = 系统提示 destBuf = 系统提示 format : 系统提示  succeed
+[2017-09-22 22:24:27][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1008 msecs!
+[2017-09-22 22:24:32][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1011 msecs!
+[2017-09-22 22:24:37][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1006 msecs!
+[2017-09-22 22:24:42][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1012 msecs!
+[2017-09-22 22:24:47][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1004 msecs!
+[2017-09-22 22:24:51][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSPlayerMgr.cpp] [WSPlayerMgr::QueryForeverDeletedPlayer] [482] start to query deleted player time(1506090291).
+[2017-09-22 22:24:51][INFO] [E:\DNF_Project_Server\trunk\server\include\CLSysNotify.h] [SysNotifyMgr::MakeNotify] [127]  MakeNotify : srcBuf = 系统提示 destBuf = 系统提示 format : 系统提示  succeed
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SendCommands] [445] [db] table(t_player_info) type(400009) callback(30, 63936672) request time(1506090291).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SendCommands] [445] [db] table(t_player_info) type(400009) callback(31, 64259736) request time(1506090291).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SendCommands] [445] [db] table(t_auction_new) type(400009) callback(32, 64039208) request time(1506090291).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56480592) magiccode(10146) sequence(107) id(400010) size(25).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56441408) magiccode(10151) sequence(108) id(400010) size(15).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56480592) magiccode(10146) sequence(107) id(400010) size(25).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(30) rettype(1).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56505064) magiccode(10154) sequence(109) id(400010) size(25).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56441408) magiccode(10151) sequence(108) id(400010) size(15).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56480592) magiccode(10155) sequence(110) id(400010) size(15).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(30) rettype(0).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SetResult] [387] [db] set request(30) result(0).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56505064) magiccode(10154) sequence(109) id(400010) size(25).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(31) rettype(1).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56480592) magiccode(10155) sequence(110) id(400010) size(15).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56505264) magiccode(10156) sequence(111) id(400010) size(592).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(31) rettype(0).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56505064) magiccode(10157) sequence(112) id(400010) size(15).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SetResult] [387] [db] set request(31) result(0).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56505264) magiccode(10156) sequence(111) id(400010) size(592).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(32) rettype(1).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56505064) magiccode(10157) sequence(112) id(400010) size(15).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(32) rettype(0).
+[2017-09-22 22:24:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SetResult] [387] [db] set request(32) result(0).
+[2017-09-22 22:24:52][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSPlayerMgr.cpp] [QueryForeverDeletedPlayerCallback::OnFinished] [460] query forever deleted player finish, type(0)time(1506090291).
+[2017-09-22 22:24:52][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSPlayerMgr.cpp] [QueryForeverDeletedPlayerCallback::OnFinished] [460] query forever deleted player finish, type(1)time(1506090291).
+[2017-09-22 22:24:52][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1024 msecs!
+[2017-09-22 22:24:52][INFO] [E:\DNF_Project_Server\trunk\server\include\CLSysNotify.h] [SysNotifyMgr::MakeNotify] [127]  MakeNotify : srcBuf = 系统提示 destBuf = 系统提示 format : 系统提示  succeed
+[2017-09-22 22:24:57][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:5842 msecs!
+[2017-09-22 22:25:04][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:6715 msecs!
+[2017-09-22 22:25:05][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSPlayerMgr.cpp] [WSPlayerMgr::OnTick] [269] CURRENT PLAYER NUM: 1!
+[2017-09-22 22:25:24][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:19693 msecs!
+[2017-09-22 22:25:27][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:3523 msecs!
+[2017-09-22 22:25:30][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1021 msecs!
+[2017-09-22 22:25:40][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1010 msecs!
+[2017-09-22 22:25:45][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1011 msecs!
+[2017-09-22 22:25:50][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1012 msecs!
+[2017-09-22 22:25:51][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSPlayerMgr.cpp] [WSPlayerMgr::QueryForeverDeletedPlayer] [482] start to query deleted player time(1506090351).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SendCommands] [445] [db] table(t_player_info) type(400009) callback(33, 64259736) request time(1506090351).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SendCommands] [445] [db] table(t_player_info) type(400009) callback(34, 63966000) request time(1506090351).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SendCommands] [445] [db] table(t_auction_new) type(400009) callback(35, 64422096) request time(1506090351).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56505064) magiccode(13826) sequence(113) id(400010) size(25).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56480592) magiccode(13827) sequence(114) id(400010) size(15).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56505064) magiccode(13826) sequence(113) id(400010) size(25).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(33) rettype(1).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56480592) magiccode(13827) sequence(114) id(400010) size(15).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(33) rettype(0).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56505064) magiccode(13836) sequence(115) id(400010) size(25).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SetResult] [387] [db] set request(33) result(0).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56441408) magiccode(13841) sequence(116) id(400010) size(15).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56505064) magiccode(13836) sequence(115) id(400010) size(25).
+[2017-09-22 22:25:51][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSPlayerMgr.cpp] [QueryForeverDeletedPlayerCallback::OnFinished] [460] query forever deleted player finish, type(0)time(1506090351).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(34) rettype(1).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56441408) magiccode(13841) sequence(116) id(400010) size(15).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(34) rettype(0).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SetResult] [387] [db] set request(34) result(0).
+[2017-09-22 22:25:51][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSPlayerMgr.cpp] [QueryForeverDeletedPlayerCallback::OnFinished] [460] query forever deleted player finish, type(1)time(1506090351).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56505264) magiccode(13850) sequence(117) id(400010) size(592).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56505264) magiccode(13850) sequence(117) id(400010) size(592).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::OnPacketRecved] [110] recv record packet(56441408) magiccode(13851) sequence(118) id(400010) size(15).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(35) rettype(1).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::ProcessPackets] [231] process record packet(56441408) magiccode(13851) sequence(118) id(400010) size(15).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::HandleSelectRet] [349] recv select return, requestid(35) rettype(0).
+[2017-09-22 22:25:51][DEBUG] [e:\dnf_project_server\trunk\server\src\commonlib\clrecordclient.cpp] [CLRecordClient::SetResult] [387] [db] set request(35) result(0).
+[2017-09-22 22:25:55][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1002 msecs!
+[2017-09-22 22:26:00][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1007 msecs!
+[2017-09-22 22:26:00][INFO] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSPlayerMgr.cpp] [WSPlayerMgr::OnTick] [269] CURRENT PLAYER NUM: 1!
+[2017-09-22 22:26:05][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1003 msecs!
+[2017-09-22 22:26:10][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1009 msecs!
+[2017-09-22 22:26:15][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1010 msecs!
+[2017-09-22 22:26:20][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1012 msecs!
+[2017-09-22 22:26:25][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1014 msecs!
+[2017-09-22 22:26:30][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1015 msecs!
+[2017-09-22 22:26:35][ERROR] [E:\DNF_Project_Server\trunk\server\src\WorldServer\WSApplication.cpp] [WSApplication::OnTick] [262] Too long tick time:1008 msecs!
+[2017-09-22 22:26:36][INFO] connection 26050001 closed by peer!(127.0.0.1:59001)
+[2017-09-22 22:26:36][INFO] connection 26030001 closed by peer!(127.0.0.1:58995)
